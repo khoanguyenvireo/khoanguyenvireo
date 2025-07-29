@@ -7,6 +7,8 @@
 
 My life philosophy: "Try not to become a man of success, but rather try to become a man of value" - Albert Einstein.
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### Socials
 
 <p align="left">
