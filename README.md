@@ -9,6 +9,9 @@ My life philosophy: "Try not to become a man of success, but rather try to becom
 
 [![trophy](https://trophygh.kolioaris.xyz/?username=khoanguyenvireo&rank=SSS,SS,S,AAA,AA,A,SECRET)](https://github.com/ryo-ma/github-profile-trophy)
 
+![Khoa's GitHub stats](https://github-readme-stats-one-dun-24.vercel.app/api?username=khoanguyenvireo&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true)
+![Top Languages](https://github-readme-stats-one-dun-24.vercel.app/api/top-langs/?username=khoanguyenvireo&layout=compact&theme=transparent&hide_border=true)
+
 ### Socials
 
 <p align="left">
